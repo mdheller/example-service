@@ -1,4 +1,4 @@
-aiohttp==3.4.4
+aiohttp==3.9.4
 jsonrpcclient==2.5.2
 jsonrpcserver==3.5.6
 requests==2.20.0
